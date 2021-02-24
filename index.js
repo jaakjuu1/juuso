@@ -6,7 +6,7 @@ clearConsole();
 
 console.log(`
 
-Juuso Jaakkola - Web Developer/Devaaja
+Juuso Jaakkola - Web Developer/Devaajas
 
 Juuso on laaja-alainen asioiden sisäistäjä ja totuuden etsijä. 
 Erityisiä kiinnostuksen kohteita ovat muinaiset viisausperinteet ja modernin tieteen löydöt. 
