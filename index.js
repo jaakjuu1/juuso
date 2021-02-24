@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const clearConsole = require('clear-any-console');
-console.log('HAHA')
+
 clearConsole();
 
 console.log(`
