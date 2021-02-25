@@ -12,5 +12,8 @@
     "juuso jaakkola",
     "juuso",
     "jaakkola"
-  ]
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "jaakjuu1/juuso"
 }
