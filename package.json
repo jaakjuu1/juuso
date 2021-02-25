@@ -15,5 +15,10 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "repository": "jaakjuu1/juuso"
+  "repository": "jaakjuu1/juuso",
+  "author": {
+    "name": "Juuso Jaakkola",
+    "email": "juuso.jaakkola@gmail.com",
+    "url": "https://twitter.com/juusojaa"
+  }
 }
