@@ -7,7 +7,9 @@
   },
   "dependencies": {
     "chalk": "^2.4.2",
-    "cli-welcome": "^2.2.2"
+    "cli-welcome": "^2.2.2",
+    "juuso-cli-alerts": "^1.0.2",
+    "log-symbols": "^4.0.0"
   },
   "keywords": [
     "juuso jaakkola",
