@@ -3,6 +3,7 @@ const welcome = require('cli-welcome');
 const pkgJSON = require('./package.json');
 const chalk = require('chalk');
 const alert = require('juuso-cli-alerts');
+const checkNode = require('cli-check-node');
 const log = console.log;
 const twitterClr = chalk.bold.hex('#1da1f2').inverse;
 const githubClr = chalk.bold.hex('#c9510c').inverse;
@@ -16,6 +17,7 @@ const error = chalk.bold.keyword('orangered');
 const info = chalk.bold.hex('#00bce4');
 const warning = chalk.bold.keyword('gold');
 
+
 welcome({
   title: `Juuso Jaakkola`,
   tagLine: `Get to know the Gnostic Developer`, 
@@ -26,6 +28,8 @@ welcome({
   bold: true,
   clear: true,
 })
+
+checkNode('10');
 
 log(`
 ${chalk.green(`Juuso Jaakkola - Developer`)}
